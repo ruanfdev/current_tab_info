@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Current Tab's Info",
+  "description": "Shows the current Tab's information",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": "icon.png",
+   "default_popup": "popup.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}
