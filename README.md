@@ -14,6 +14,3 @@ A Chrome Extension that shows the current Tab's information
 * Click on "Load unpacked"
 * Select the folder where the extension files are located
 * **Optional**: Disable "Developer mode" again
-
-
-test
